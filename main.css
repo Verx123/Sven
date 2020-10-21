@@ -4,7 +4,7 @@ font-family: arial;
 }
 
 h1, h2 {
-  color: #888;
+  color: white;
 }
 
 a {
@@ -14,7 +14,7 @@ a {
 
 p {
   background: #999;
-  color: #988;
+  color: white;
   padding: 14px 14px;
 }
 
@@ -23,7 +23,8 @@ p {
 }
 
 .col {
-  background: #333;
+  color: white
+  background: #111;
   padding: 20px;
   margin: 5px;
   float: left;
