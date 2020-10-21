@@ -17,3 +17,14 @@ p {
   color: #988;
   padding: 14px 14px;
 }
+
+.row {
+
+}
+
+.col {
+  background: #333;
+  padding: 20px;
+  margin: 5px;
+  float: left;
+}
