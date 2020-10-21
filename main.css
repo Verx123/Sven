@@ -23,8 +23,8 @@ p {
 }
 
 .col {
-  color: white
-  background: #111;
+  color: white;
+  background: black;
   padding: 20px;
   margin: 5px;
   float: left;
