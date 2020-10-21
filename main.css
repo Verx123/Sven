@@ -1,10 +1,10 @@
 body {
-background: red;
+background: black;
 font-family: arial;
 }
 
 h1, h2 {
-  color: #333;
+  color: white;
 }
 
 a {
@@ -14,7 +14,7 @@ a {
 }
 
 p {
-  background: #666;
+  background: #999;
   color: white;
   padding: 14px 14px;
 }
