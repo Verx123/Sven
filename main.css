@@ -8,15 +8,7 @@ h1, h2 {
 }
 
 
-.filmik {
-        background: #a500ff;
-        color: white;
-        padding: 24px 24px;
-        margin: 4px 2px;
-        float: right;
-        border: 2px , #ff00e3;
-        
-}
+
 
 header {
   background-color: #666;
@@ -29,7 +21,7 @@ header {
   nav {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
+ 
   background: #ccc;
   padding: 20px;
 }
