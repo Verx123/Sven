@@ -15,19 +15,14 @@ a {
 p {
   background: #ff9191;
   color: white;
-  padding: 14px 14px;
+  
 }
 
-.row {
-
-}
 
 .col {
   color: white;
   background: #c70825;
-  padding: 25px;
-  margin: 9px;
-  float: left;
+  
 }
 
 .button {
