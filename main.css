@@ -1,5 +1,5 @@
 body {
-background: #444;
+background: #780b0b;
 font-family: arial;
 }
 
@@ -8,12 +8,12 @@ h1, h2 {
 }
 
 a {
- color: green;
+ color: #ff00e3;
  
 }
 
 p {
-  background: #999;
+  background: #ff9191;
   color: white;
   padding: 14px 14px;
 }
@@ -24,8 +24,8 @@ p {
 
 .col {
   color: white;
-  background: black;
-  padding: 20px;
-  margin: 5px;
+  background: #c70825;
+  padding: 25px;
+  margin: 9px;
   float: left;
 }
