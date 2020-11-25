@@ -11,6 +11,10 @@ p {
   color: white;
 }
 
+a {
+  color: white;
+  font-family: arial;
+}
 
 header {
   background-color: #666;
