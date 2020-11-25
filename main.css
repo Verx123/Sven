@@ -46,6 +46,7 @@ section:after {
 
 /* Style the footer */
 footer {
+  margin: 100px;
   background-color: #777;
   padding: 10px;
   text-align: center;
